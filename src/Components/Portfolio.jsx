@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/About3.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Get Insight from Data";
 
 /**
  * Project list
@@ -31,22 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: " Process of Data Analysis 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      // eslint-disable-next-line prettier/prettier
+      "The Data Analytics Lifecycle is a structured framework that outlines the various stages and processes involved in analyzing data to derive meaningful insights and make informed decisions."
+  ,
+    url: "https://www.bing.com/images/search?view=detailV2&ccid=KtAjrqpJ&id=D32B6971EDB0BE0048A6F8282DEDE24E124366DD&thid=OIP.KtAjrqpJa63UHxk5XNkrIQHaHa&mediaurl=https%3A%2F%2Ftechroversolutions.com%2Fimages%2FData_Analytics.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.2ad023aeaa496badd41f19395cd92b21%3Frik%3D3WZDEk7i7S0o%252bA%26pid%3DImgRaw%26r%3D0&exph=600&expw=600&q=10+thinks+about+data+analysis&form=IRPRST&ck=A186B8CDE0FD8EFC11FB0D5D3A78C4F9&selectedindex=9&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_KbHFqZp9*cp_7566FE23F3D2A79D51A0639FDEEC2672*mid_58BBB2D41DC3FF71BA58B35F4E3DEBCA5E0FAA0B*thid_OIP.KbHFqZp93iwPR86XhiazUwHaD4&vt=0&sim=11&iss=VSI&simid=607995201614392475&ajaxhist=0&ajaxserp=0",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Projects for  Begginers",
+    // eslint-disable-next-line prettier/prettier
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Here are some basic projects to kick start your data journey",
+    url: "https://github.com/NeelamMahraj?tab=repositories",
   },
   {
     title: "My Resume Site",
+    // eslint-disable-next-line prettier/prettier
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "You can find my achienvements on linkedin and connect with me ",
+    url: "https://www.linkedin.com/in/neelam-mahraj-70584823a/",
   },
   {
     title: "GitHub Codespaces and github.dev",
